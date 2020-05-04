@@ -17,4 +17,6 @@ int main()
 }
 ```
 output
+
+
 ![Image](https://github.com/tushank16/hackerrank/blob/master/30%20Days%20of%20Code/images/Annotation%202020-05-04%20193833.png)
