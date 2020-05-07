@@ -1,5 +1,5 @@
 **Task**
-Given an integer, , print its first  multiples. Each multiple  (where ) should be printed on a new line in the form: n x i = result.
+* Given an integer, , print its first  multiples. Each multiple  (where ) should be printed on a new line in the form: n x i = result.
 
 **Output Format**
 
@@ -22,6 +22,7 @@ Given an integer, , print its first  multiples. Each multiple  (where ) should b
 2 x 9 = 18
 2 x 10 = 20
 ```
+## Code
 ```
 #include <bits/stdc++.h>
 
