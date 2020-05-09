@@ -2,16 +2,16 @@
 Write a factorial function that takes a positive integer, N  as a parameter and prints the result of  N!( factorial).
 
 ## Sample Input
-'''
+```
 3
-'''
+```
 ## Sample Output
-'''
+```
 6
-'''
+```
 ## Code
 
-'''
+```
 
 #include <iostream>
 using namespace std;
@@ -33,4 +33,4 @@ int main()
     cout << result << "\n";
     return 0;
 }
-'''
+```
