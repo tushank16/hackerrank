@@ -50,7 +50,6 @@ int main()
     cout<<count<<endl;
     else 
     cout<<cnt<<endl;
-
     return 0;
 }
 ```
