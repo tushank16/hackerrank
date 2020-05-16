@@ -8,3 +8,19 @@ A Student class constructor, which has  parameters:
 * An integer, **id**.
 An integer array (or vector) of test scores, **scores**.
 A char calculate() method that calculates a Student object's average and returns the grade character representative of their calculated average:
+
+Sample Input
+```
+Heraldo Memelli 8135627
+2
+100 80
+```
+Sample Output
+```
+ Name: Memelli, Heraldo
+ ID: 8135627
+ Grade: O
+ ```
+ ### Code
+ ```
+ ```
