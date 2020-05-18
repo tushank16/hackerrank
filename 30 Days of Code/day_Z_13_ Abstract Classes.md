@@ -3,9 +3,9 @@ Given a Book class and a Solution class, write a MyBook class that does the foll
 
 * Inherits from Book
 * Has a parameterized constructor taking these 3 parameters:
-> string **title**
-> string **author**
-> int **price**
+> * string **title**
+> * string **author**
+> * int **price**
 
 Implements the Book class' abstract display() method so it prints these  lines:
 * **title**, a space, and then the current instance's .**title**
